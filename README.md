@@ -1,14 +1,13 @@
 
 ---
 
-# Aula: Redundância de Dados (Data Redundancy)
+# Aula 04: Redundância de Dados (Data Redundancy)
 
 ## 1. Introdução
 
 Com o crescimento do uso de sistemas digitais, grandes quantidades de dados são armazenadas diariamente em bancos de dados, servidores e serviços em nuvem. Um dos conceitos importantes na gestão desses dados é a **redundância de dados**, que pode trazer tanto benefícios quanto problemas dependendo de como é utilizada.
 
-A redundância de dados está relacionada à existência de **múltiplas cópias do mesmo dado em diferentes locais ou sistemas**. Esse fenômeno pode ocorrer de forma intencional ou não intencional dentro de um sistema de informação. ([IBM][1])
-
+A redundância de dados está relacionada à existência de **múltiplas cópias do mesmo dado em diferentes locais ou sistemas**. Esse fenômeno pode ocorrer de forma intencional ou não intencional dentro de um sistema de informação.
 Compreender esse conceito é essencial para o desenvolvimento de sistemas, administração de bancos de dados e segurança da informação.
 
 ---
